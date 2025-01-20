@@ -1,3 +1,4 @@
+mod libs;
 struct Monomial {
     coefficient: usize,
     degree: usize,
